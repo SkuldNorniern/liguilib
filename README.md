@@ -1,0 +1,2 @@
+# liguilib
+Simple GUI lib
